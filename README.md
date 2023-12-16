@@ -20,6 +20,11 @@ A new Flutter project.
 <img src="https://github.com/Mirzaazmath/nat_geo_app_flutter/blob/main/assets/output/Screenshot3.png" height="400">
 
 
+ /// if you want to see other screen just change the above screen with below screen in homescreen,dart
+      /// both screens are created differently so there is no navigation between them
+      /// this is for just UI purpose hope you understand
+
+
 
 ## Getting Started
 
